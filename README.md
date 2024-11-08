@@ -15,13 +15,13 @@
 </div>
 
 ## Programming Languages:
-[![Frontend Technologies](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
+![Frontend Technologies](https://skillicons.dev/icons?i=c,cpp,java,py)
 
 ## Frontend Technologies:
-[![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react)](https://skillicons.dev)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react)
 
 <!-- ## Backend Technologies:
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,php,mysql,laravel)](https://skillicons.dev) -->
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,php,mysql,laravel) -->
 
 ## Tools:
 ![Tools & Technologies](https://skillicons.dev/icons?i=bash,git,github,arduino,jenkins,docker,vscode)
