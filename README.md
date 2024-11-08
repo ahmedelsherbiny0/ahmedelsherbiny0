@@ -8,9 +8,9 @@
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny74-eng&theme=highcontrast&hide_border=false)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelsherbiny74-eng&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelsherbiny74-eng&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsherbiny74-eng&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsherbiny74-eng&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
