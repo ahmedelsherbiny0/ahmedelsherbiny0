@@ -26,7 +26,7 @@
 ## Tools:
 ![Tools](https://skillicons.dev/icons?i=bash,git,github,arduino,jenkins,docker,vscode)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- ---
