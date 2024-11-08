@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny74-eng&theme=chartreuse-dark&hide_border=false)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny74-eng&theme=highcontrast&hide_border=false)
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelsherbiny74-eng&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
   
