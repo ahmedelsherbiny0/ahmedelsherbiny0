@@ -1,5 +1,6 @@
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <div align="center">
-  <h2>Hello, I'm Ahmed Elsherbiny</h2>
+  <h2>Hi 👋, I'm Ahmed Elsherbiny</h2>
 </div>
 
 <br>
@@ -20,16 +21,12 @@
 ## Frontend Technologies:
 [![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react)](https://skillicons.dev)
 
-<!-- ## Backend Technologies:
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,php,mysql,laravel)](https://skillicons.dev) -->
-
 ## Tools:
 ![Tools & Technologies](https://skillicons.dev/icons?i=bash,git,github,arduino,jenkins,docker,vscode)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<!-- ---
-[![](https://visitcount.itsvg.in/api?id=ahmedelsherbiny74-eng&icon=0&color=12)](https://visitcount.itsvg.in) -->
 
+<!-- [![](https://visitcount.itsvg.in/api?id=ahmedelsherbiny74-eng&icon=0&color=12)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
