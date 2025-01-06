@@ -1,7 +1,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <div align="center">
-  <h2>Hi 👋, I'm Ahmed Elsherbiny</h2>
+  <h2>Hi <span><img src="Assets/waving-hand.gif" width="18px"/></span>, I'm Ahmed Elsherbiny</h2>
 </div>
 
 <br>
@@ -34,7 +34,3 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ahmedelsherbiny0&icon=0&color=12)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
