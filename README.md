@@ -1,7 +1,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 
 <div align="center">
-  <h2>Hi <span><img src="Assets/waving-hand.gif" width="18px"/></span>, I'm Ahmed Elsherbiny</h2>
+  <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Ahmed Elsherbiny</h2>
 </div>
 
 <br>
