@@ -18,9 +18,9 @@
 
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py)
 
-## Frontend Technologies:
+<!-- ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react) -->
 
 ## Tools:
 
