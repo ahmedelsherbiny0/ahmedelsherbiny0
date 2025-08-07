@@ -16,7 +16,9 @@
 
 ## Programming Languages:
 
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+</div>
 
 <!-- ## Frontend Technologies:
 
@@ -24,17 +26,23 @@
 
 ## Tools:
 
-![Tools](https://skillicons.dev/icons?i=bash,git,github,arduino,jenkins,docker,vscode)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,git,github,arduino,jenkins,docker,vscode" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedelsherbiny0/ahmedelsherbiny0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedelsherbiny0/ahmedelsherbiny0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedelsherbiny0/ahmedelsherbiny0/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedelsherbiny0/ahmedelsherbiny0/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmedelsherbiny0/ahmedelsherbiny0/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ahmedelsherbiny0/ahmedelsherbiny0/output/github-snake.svg" />
+  </picture>
+</div>
 
 ### Random Dev Quote ✍️
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ahmedelsherbiny0&icon=0&color=12)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
