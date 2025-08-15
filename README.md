@@ -44,7 +44,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedelsherbiny0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsherbiny0" /> </p>
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedelsherbiny0&label=Views&color=222222&style=for-the-badge" alt="Profile views" />
+</p>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ahmedelsherbiny0&icon=0&color=12)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
