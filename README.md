@@ -29,9 +29,9 @@
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&border_radius=10)<br/>
-![](https://github-stats-extended.vercel.app/api?username=ahmedelsherbiny0&hide_border=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10)<br/>
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide_values=false&border_radius=10)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-stats-extended.vercel.app/api?username=ahmedelsherbiny0&hide_border=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide_values=false)
 
 </div>
 
