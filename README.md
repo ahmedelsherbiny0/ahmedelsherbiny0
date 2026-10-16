@@ -2,32 +2,37 @@
 
 <div align="center">
   <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Ahmed Elsherbiny</h2>
+  <p>A Junior Software Engineer with an experience in web development using Next.js and Nest.js, passionate about DevOps and building scalable applications. I enjoy learning new technologies and applying them to solve real-world problems. My goal is to continuously improve my skills and contribute to impactful projects.</p>
 </div>
 
 <br>
 
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
 ## Programming Languages:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,java,py,php,go" />
 </div>
 
-<!-- ## Frontend Technologies:
-
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react) -->
-
-## Tools:
+## Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,git,github,arduino,jenkins,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,nest,laravel,mysql,postgres,mongodb" />
+</div>
+
+## Tools & Utilities:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,git,github,githubactions,jenkins,docker,kubernetes" />
+</div>
+
+## Github Stats:
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&border_radius=10)<br/>
+![](https://github-stats-extended.vercel.app/api?username=ahmedelsherbiny0&hide_border=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=ahmedelsherbiny0&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide_values=false&border_radius=10)
+
 </div>
 
 <div align="center">
@@ -38,17 +43,13 @@
   </picture>
 </div>
 
-### Random Dev Quote ✍️
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelsherbiny0&label=Profile%20Views&color=222222&style=for-the-badge" alt="Profile views" />
-</p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedelsherbiny0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsherbiny0" /> </p> -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=ahmedelsherbiny0&icon=0&color=12)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
